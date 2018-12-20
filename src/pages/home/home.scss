@@ -1,3 +1,25 @@
 page-home {
+    .toolbar-background {
+        background-color:#82b1ff;
+    }
 
-}
+    toolbar-title {
+        font-family: Gabriola;
+        font-size: 3rem  
+    }
+    .button-inner {
+        color: white;
+        font-family: Gabriola;
+        font-size: 1.5rem; 
+        text-transform: capitalize;
+    }
+    
+    .map {
+        width: 100%;
+        height: 90%;
+    }
+    .textAvailable{
+        color: complement($color: #000000)
+    
+    }
+}   
